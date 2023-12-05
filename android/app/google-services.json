@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453386909548",
+    "project_id": "fir-e6105",
+    "storage_bucket": "fir-e6105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453386909548:android:c266831e01973efe2da549",
+        "android_client_info": {
+          "package_name": "com.example.firezft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDqBzoNDIlDPimMSTmLMGYsf34XFr1dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
